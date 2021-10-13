@@ -1,0 +1,6 @@
+GET http://localhost:3000/check
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.c2FtcGxlVG9rZQ.w3yYO5VUG7ISInISJKRctqQ5DrJnBVG5_0PyYHxwe60
+
+###
+
+GET http://localhost:3000/
